@@ -3,7 +3,7 @@ pragma solidity ^0.4.21;
 import "./RathCoinInterface.sol";
 
 
-contract RathCoin is EIP20Interface {
+contract RathCoin is RInterface {
 
     uint256 constant private MAX_UINT256 = 2**256 - 1;
     mapping (address => uint256) public balances;
