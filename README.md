@@ -8,8 +8,23 @@ A simple cryptocurrency implemented and deployed over the Ethereum Blockchain us
 
 ![compile](/img/1.png)
 
-* Now under "Run", in the Deploy textbox, specify the number of Tokens, Name of the Crypto, Decimals, Symbol. Hit deploy
+* Now under "Run", in the Deploy textbox, specify the number of Tokens, Name of the Crypto, Decimals, Symbol. Select JavaScript VM, if u dont have a Metamask account with Test Ethers. Select any free account. Then hit Deploy
 
 ![Deploy](/img/6.png)
 
-*
+* When its Deployed, RathCoin will appear in the console. Copy and paste the VM ethereum public key in the "balanceOf" section to see the balance. It should show that you have 10000 Coins.
+
+![Balance](/img/2.png)
+
+* Now you can send your Crypto to other accounts. Select another VM Public key as a receiver test account. Paste it in the "transfer" section with quotes and the amount of coins you want to send with a comma. Eg, "0x66742e4Ed9EABDBdDd37D3E4c82157F13b61D24e",1000
+
+Balance Before Sending
+
+![BalanceBeforeSending](/img/3a.png)
+
+Balance After Sending
+
+![BalanceAfterSending](/img/3b.png)
+
+
+
