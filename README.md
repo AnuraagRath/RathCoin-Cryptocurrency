@@ -45,6 +45,26 @@ Receiver After Coins have been Credited
 
 ![Interface](/img/5.png)
 
+# Setting up Metamask
+
+* Download the Metamask Chrome extension. Create an account. 
+* When you land at the home page you will be having 0 ETH. Select "Rinkeby Test Net".
+
+![mainpage](/img/Meta.png)
+
+* To Acquire a few test Ethers, copy the PublicKey, which you can do you clicking on the name of the account. Then Create a twitter post by pasting that Public key. Now copy the post link and paste it here in this site and select how muhc Ethers you want.
+
+![Funnel](/img/Meta2.png)
+
+* Your Ethers would be transfered to your Rinkeby Test Account.
+
+![Done](/img/Meta4.png)
+
+* Now ehen you make any transactions or Operate your Crypto, You will get a popup. Just select Confirm
+
+![popup](/img/Meta3.png)
+
+
 
 Thank you
 
