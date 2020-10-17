@@ -1,7 +1,7 @@
 pragma solidity ^0.4.21;
 
 
-contract EIP20Interface {
+contract RInterface {
     uint256 public totalSupply;
 
 
