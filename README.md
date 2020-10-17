@@ -26,5 +26,19 @@ Balance After Sending
 
 ![BalanceAfterSending](/img/3b.png)
 
+Receiver After Coins have been Credited
+
+![Credited](/img/4.png)
+
+# RathCoin
+
+![Interface](/img/5.png)
+
+
+Thank you
+
+Yours Truely,
+
+Anuraag Rath
 
 
