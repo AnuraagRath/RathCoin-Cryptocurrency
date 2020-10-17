@@ -43,8 +43,6 @@ Receiver After Coins have been Credited
 
 # RathCoin
 
-![Interface](/img/5.png)
-
 * RathCoin is Listed on Etherscan
 
 ![Etherscan](/img/Contract.png)
