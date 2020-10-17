@@ -14,10 +14,10 @@ Confirmation through Metamask where a Few of Your Test Ethers would be spend
 
 ![confirm](/img/0M.png)
 
-![Deploy](/img/6.png)
+![Deploy](/img/7.png)
 
 
-* When its Deployed, RathCoin will appear in the console. Copy and paste the VM ethereum public key in the "balanceOf" section to see the balance. It should show that you have 10000 Coins.
+* When its Deployed, RathCoin will appear in the console. Copy and paste the Metamask ethereum public key in the "balanceOf" section to see the balance. It should show that you have 10000 Coins.
 
 ![Balance](/img/2.png)
 
