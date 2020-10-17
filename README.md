@@ -8,9 +8,14 @@ A simple cryptocurrency implemented and deployed over the Ethereum Blockchain us
 
 ![compile](/img/1.png)
 
-* Now under "Run", in the Deploy textbox, specify the number of Tokens, Name of the Crypto, Decimals, Symbol. Select JavaScript VM, if u dont have a Metamask account with Test Ethers. Select any free account. Then hit Deploy
+* Now under "Run", in the Deploy textbox, specify the number of Tokens, Name of the Crypto, Decimals, Symbol. Select Injected web3, select your Metamask account. If you dint have one Download Metamask for Chrome, create an account (Go to end to learn how to deploy Metamask). Then hit Deploy
+
+Confirmation through Metamask where a Few of Your Test Ethers would be spend
+
+![confirm](/img/0M.png)
 
 ![Deploy](/img/6.png)
+
 
 * When its Deployed, RathCoin will appear in the console. Copy and paste the VM ethereum public key in the "balanceOf" section to see the balance. It should show that you have 10000 Coins.
 
@@ -25,6 +30,12 @@ Balance Before Sending
 Balance After Sending
 
 ![BalanceAfterSending](/img/3b.png)
+
+![confirmation](/img/1M.png)
+
+Debited from your account
+
+![Debited](/img/2M.png)
 
 Receiver After Coins have been Credited
 
